@@ -4,3 +4,6 @@ Whether you're a beginner exploring the fundamentals of video processing or an e
 
 ## KeyFrameExtraction.ffprobe.ipynb
 This file contains code designed to read a video file and extract its keyframes using the OpenCV library in conjunction with the FFprobe command.
+
+## LowLevelVideoFeatures.ipynb
+This file is intended to read a video file and extract low-level features from each frame, including brightness, colorfulness, saturation, and contrast. It then calculates the mean and variance of each of these features across the entire video sequence.
