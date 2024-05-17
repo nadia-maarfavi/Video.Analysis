@@ -19,16 +19,18 @@ To run the code in this repository, follow these steps:
 
 **1. Clone the Repository:**
 ```bash
-git clone https://github.com/nadia-maarfavi/YouTube.Data.Scraper.git
+git clone https://github.com/nadia-maarfavi/Video.Analysis.git
 ```
 
 **2. Install Required Libraries:**
+
 Ensure you have the necessary Python libraries installed. You can install them using:
 ```bash
 pip install -r requirements.txt
 ```
 
 **3. Open and Run Notebooks:**
+
 Open each notebook in your preferred environment.
 Follow the instructions provided in each notebook to execute the code.
 
